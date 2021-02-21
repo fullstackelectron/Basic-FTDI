@@ -1,2 +1,5 @@
 fp-info-cache
 FTDI-cache.lib
+gerber/
+*panelized*
+_autosave*
